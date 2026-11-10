@@ -1,0 +1,17 @@
+{
+  "version": "0.5.0.0",
+  "name": "0.05 PRE-ALPHA",
+  "notes": "- RigMedic now updates itself. When a new version is out it says \"Update available\": click Update now, and it closes and reopens on the new version a few seconds later.\n- \"Check for updates\" sits under the version number in the sidebar.\n- The driver scan stops waiting for Windows Update after 5 minutes instead of hanging.\n- The crash scan's system info also lists your drives.\n- Log bundles say exactly which version made them.",
+  "files": {
+    "public": {
+      "file": "RigMedic-Setup-0.5.0.0.exe",
+      "size": 745472,
+      "sha256": "b4974097d41c829a6e47e1ca235fd5d441dabb396264658e784ae14553f2a1e9"
+    },
+    "dev": {
+      "file": "RigMedic-DEV-Setup-0.5.0.0.exe",
+      "size": 755200,
+      "sha256": "1869a05c4bf488423d50e30535e684b97b637786f4d48731712c1d7975c75cd9"
+    }
+  }
+}
